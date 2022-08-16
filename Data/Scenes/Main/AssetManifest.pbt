@@ -43,3 +43,12 @@ Assets {
     AssetId: "CORESKY_Sky"
   }
 }
+Assets {
+  Id: 5843395972988896562
+  Name: "Plane 1m - One Sided"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_plane_1m_001"
+  }
+}
